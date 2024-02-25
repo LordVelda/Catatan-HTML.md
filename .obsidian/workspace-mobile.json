@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "7a1fce2051f0074c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eb0a61dd8e929b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eefda689f678c40f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Html/Belajar HTML.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "40015c93f693b03a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Html/Belajar HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "285eca26c4e22bb0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6c847550f83b2b5a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a9109c6c01512b97",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "15d3e1a897ae014f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d95d4014088370ac",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "1bf4b928cddadae1",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3ba76b91c2cfc5a6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4fe24569dc32acc2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Html/Belajar HTML.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "594f4b4cfb066294",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Html/Belajar HTML.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c10a9f4b44a3ba15",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Html/Belajar HTML.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6c847550f83b2b5a",
+  "lastOpenFiles": [
+    "Pengenalan CSS.md",
+    "Instalasi & Query awal data base.md",
+    "asettt/H1-H6.jpg.md",
+    "Html/Belajar HTML.md",
+    "Aset pitcure/IMG_20240219_121759.jpg",
+    "Aset pitcure",
+    "Aset pitcure/IMG_20240219_120928.jpg",
+    "Aset pitcure/IMG_20240219_121759 1.jpg",
+    "Pengenalan CSS",
+    "Aset Database/Screenshot_2024-02-19-10-51-53-089_com.foxdebug.acodefree.jpg",
+    "Aset pitcure/Screenshot_2024-02-05-11-55-38-010_com.foxdebug.acodefree.jpg.md",
+    "Aset Database/Screenshot_2024-02-19-10-47-17-630_com.foxdebug.acodefree.jpg",
+    "Html/HTML, CSS, JAVA SCRIPT.md",
+    "Aset pitcure/Screenshot_2024-02-05-11-46-26-642_com.foxdebug.acodefree.jpg.md",
+    "Aset Database/Screenshot_2024-02-19-10-43-32-802_com.foxdebug.acodefree.jpg",
+    "Aset pitcure/Screenshot_2024-02-05-11-49-27-733_com.foxdebug.acodefree.jpg.md",
+    "Aset Database/Screenshot_2024-02-19-10-41-51-750_com.foxdebug.acodefree.jpg",
+    "Aset pitcure/Screenshot_2024-02-05-11-51-55-058_com.foxdebug.acodefree 1 1.jpg.md",
+    "Aset Database/Screenshot_2024-02-19-10-38-44-620_com.foxdebug.acodefree.jpg",
+    "asettt/hasil_html.jpg.md",
+    "Aset Database/Instalasi & Query awal database.md",
+    "Html/Table.md",
+    "Aset pitcure/IMG-20240116-WA0023 1.jpg.md",
+    "Screenshot_2024-02-05-11-55-38-010_com.foxdebug.acodefree.jpg",
+    "Screenshot_2024-02-05-11-51-55-058_com.foxdebug.acodefree 1 1.jpg",
+    "asettt/p_b_u_i_br_hr.jpg.md",
+    "asettt",
+    "Aset Database/Instalasi Dan Query Awal Database.md",
+    "Html/Pengertian Basis Data.md",
+    "Html/Sejarah Web Development.md",
+    "Ssdatabase/mysqroot.jpg.md",
+    "Html/Struktur Dasar HTML.md",
+    "Screenshot_2024-01-22-11-11-52-522_com.foxdebug.acodefree 1.jpg.md",
+    "Html/Pertemuan 1.md",
+    "Ssdatabase/usedata.jpg.md",
+    "Ssdatabase/Dropdata.jpg.md",
+    "Ssdatabase",
+    "Aset Database",
+    "IMG-20240117-WA0001.jpg.md",
+    "Babayoo",
+    "Spaces/Home/Untitled.md",
+    "Spaces/Home",
+    "Spaces",
+    "Aset/Gshshd.md",
+    "Aset",
+    "5_6123089390756434479.pdf"
+  ]
+}
